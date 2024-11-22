@@ -1,0 +1,27 @@
+.text12{
+margin-top: 150px;
+text-align: center;
+
+}
+.text12 h1{
+  font-size: 80px;
+  font-family: Impact;
+}
+.text12 p{
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  font-size: 35px;
+}
+.text12 button{
+  width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.text12 button:hover{
+  background-color: green;
+}
